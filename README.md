@@ -212,7 +212,7 @@ void loop() {
 
 ## THINKSPEAK CLOUD :
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/dfb1ab26-c20b-47c7-90f8-5c7452085aa7" />
+<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/f27f3bbd-018b-4d8f-baac-8174059b31d2" />
 
 
 # RESULT:
